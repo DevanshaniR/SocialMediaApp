@@ -36,14 +36,9 @@ yarn-debug.log*
 yarn-error.log*
 
 # TypeScript compiled files
-*.ts
-*.tsx
 
 # Testing coverage directory
 coverage/
-
-# SQLite database files (if using SQLite as your DB)
-*.db
 
 # Build directories or any other files that are auto-generated (e.g. compiled JS)
 *.js
