@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "target": "ES5",
+      "lib": ["dom", "es6", "scripthost"],
+      "allowJs": true,
+      "jsx": "react-jsx",
+      "moduleResolution": "node",
+      "module": "ESNext",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": true
+    },
+    "include": ["src"]
+  }
+  
